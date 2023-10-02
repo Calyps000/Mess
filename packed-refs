@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled sorted 
+aa27597d85a7befb35484bb737f7c399b5642b96 refs/heads/dependabot/npm_and_yarn/eslint-config-prettier-9.0.0
+26fd502495c1e1fadb4dad08545325fe5ab485ed refs/heads/dependabot/npm_and_yarn/eslint-plugin-react-7.33.2
+7892ac94d73cd124e664da294ab2053237165a7e refs/heads/dependabot/npm_and_yarn/headlessui/tailwindcss-0.2.0
+d0903d353b44c34c133b284e833a8e3b9083dd97 refs/heads/dependabot/npm_and_yarn/unified-11.0.3
+68e47b4d8337556a32654d55e5ead0f9b9d2990b refs/heads/dependabot/npm_and_yarn/vite-4.4.9
+adb95a2fe045977b055056cb50065b0a5a77a8f5 refs/heads/main
+53517c4c3b87e84f0e9471906c0d2269b0ceba35 refs/tags/chatdev1.0.0
+3a970dbad5d25c7484258d5fe02a79aaacf598be refs/tags/chatdev1.0.1
+adb95a2fe045977b055056cb50065b0a5a77a8f5 refs/tags/chatdev1.1.0
